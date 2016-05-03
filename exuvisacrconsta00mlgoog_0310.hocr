@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./exuvisacrconsta00mlgoog_0310.png"; bbox 0 0 863 1463; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 266 183 684 208">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 266 183 684 208">
+     <span class='ocr_line' id='line_1_1' title="bbox 266 183 684 208; baseline -0.01 -5"><span class='ocrx_word' id='word_1_1' title='bbox 266 184 301 208; x_wconf 76' lang='lat'><strong>298</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 359 189 414 201; x_wconf 75' lang='lat' dir='ltr'><strong>sons</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 424 188 447 200; x_wconf 82' lang='lat' dir='ltr'><strong>n·</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 457 184 522 200; x_wconf 68' lang='lat' dir='ltr'><strong>fluns</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 532 183 684 202; x_wconf 61' lang='lat' dir='ltr'><strong>nummum</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 286 1170 758 1215">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 286 1170 758 1215">
+     <span class='ocr_line' id='line_1_2' title="bbox 286 1170 758 1215; baseline -0.008 -16"><span class='ocrx_word' id='word_1_6' title='bbox 286 1170 758 1215; x_wconf 40' lang='lat' dir='ltr'><strong>twa-»nuna-sfl-:ffl———a-nJ-nh-r·</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
